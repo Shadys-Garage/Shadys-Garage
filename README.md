@@ -45,10 +45,26 @@ I am a Mechatronics Engineering Master's student at Politecnico di Torino, bridg
 * Configured multi-package ROS 2 workspaces to handle Nav2 stack initialization and RViz2 visualization for autonomous routing.
 * 🔗 [Link to Repository / Case Study](#) *(Replace with your link)*
 
-#### 3. Reinforcement Learning
-#### 4. PLC 1
-#### 5. PLC 2
 
+#### 3. Reinforcement Learning for Domain Randomization
+*Implemented and tuned reinforcement learning algorithms for dynamic environments.*
+* Applied Proximal Policy Optimization (PPO) algorithms to solve cartpole domain randomization challenges.
+* Evaluated training performance and conducted hyperparameter tuning to ensure robust policy generation.
+* 🔗 [Link to Repository / Case Study](#)
+
+#### 4. Automated Weighing & Robotic Arm Conveyor System
+*Industrial automation architecture modeled and simulated entirely in Automation Studio.*
+* Designed the control logic for a conveyor-fed weighing station and integrated robotic arm handling without relying on physical PLC hardware.
+* Implemented Sequential Function Charts (SFC) and Ladder Logic to synchronize conveyor timing with pick-and-place routines.
+* Developed a custom Human-Machine Interface (HMI) for real-time monitoring and system control.
+* 🔗 [Link to Repository / Case Study](#)
+
+#### 5. Automated Drink Sorting & Selection System
+*Fluid-logic and PLC programming simulated across CODESYS and FluidSIM.*
+* Developed Structured Text and Ladder Logic to manage state transitions and electro-pneumatic sorting mechanisms.
+* Utilized shift register logic to track bottle positions, ensuring accurate drink selection and routing down the line.
+* Designed an interactive HMI allowing users to input desired drink selections and monitor the active pipeline status.
+* 🔗 [Link to Repository / Case Study](#)
 
 ---
 
