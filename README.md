@@ -66,6 +66,13 @@ I am a Mechatronics Engineering Master's student at Politecnico di Torino, bridg
 * Designed an interactive HMI allowing users to input desired drink selections and monitor the active pipeline status.
 * 🔗 [Link to Repository / Case Study](#)
 
+#### 6. Model-Based Software Design: ISO-26262 One-Pedal Controller
+*Designed and simulated a safety-critical one-pedal controller and vehicle dynamics model.*
+* Conducted Hazard Analysis and Risk Assessment (HARA) to evaluate unintended acceleration and braking scenarios, assigning appropriate ASIL levels to ensure ISO26262 compliance.
+* Developed a Finite State Machine (FSM) in Simulink to govern transmission states and compute dynamic torque requests against a custom longitudinal vehicle physics plant.
+* Implemented functional redundancies and signal plausibility checks within the safety architecture to trigger safe states during sensor mismatches.
+* Generated C-code firmware from the Simulink controller and validated system behavior by deploying it to a simulated Arduino Uno microcontroller using SimulIDE.
+* 🔗 🔗 [View Notion Case Study](https://app.notion.com/p/Model-Based-Software-Design-ISO-26262-One-Pedal-Controller-3d0284bb286f80539209c4d954ce5c2c?source=copy_link) | 💻 [View Source Code]([https://github.com/your-username/your-repo](https://github.com/Shadys-Garage/ISO_26262_One_Pedal_Controller.git))
 ---
 
 ### 📫 Let's Connect
