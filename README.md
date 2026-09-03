@@ -57,7 +57,7 @@ I am a Mechatronics Engineering Master's student at Politecnico di Torino, bridg
 * Designed the control logic for a conveyor-fed weighing station and integrated robotic arm handling without relying on physical PLC hardware.
 * Implemented Sequential Function Charts (SFC) and Ladder Logic to synchronize conveyor timing with pick-and-place routines.
 * Developed a custom Human-Machine Interface (HMI) for real-time monitoring and system control.
-* 🔗 [Link to Repository / Case Study](#)
+* 🔗 [View Notion Case Study](https://app.notion.com/p/Automated-Weighing-Robotic-Arm-Conveyor-System-3d0284bb286f8045b79fc138d2e02e02?source=copy_link) | 💻 [View Source Code](https://github.com/Shadys-Garage/Automated_Weighing_And_Robotic_Arm_Conveyor_System_PLC.git)
 
 #### 5. Automated Drink Sorting & Selection System
 *Fluid-logic and PLC programming simulated across CODESYS and FluidSIM.*
