@@ -33,7 +33,7 @@ I am a Mechatronics Engineering Master's student at Politecnico di Torino, bridg
 ### 📂 Featured Engineering Projects
 
 #### 1. Mobile Manipulator Stability & Kinematics (AGV + Robotic Arm)
-*An industrial integration project evaluating the physical feasibility of mounting a FANUC M-710iC on an OTTO 1500 AGV.*
+*An industrial integration project evaluating the physical feasibility of mounting a roboyic manipulator on an AGV .*
 * Developed 2D Python simulations and mathematical models to calculate the system's center of mass.
 * Performed static stability analysis to map support polygons, tipping points, and safety factors during arm extension and heavy payloads.
 * 🔗 [Link to Repository / Case Study](#) *(Replace with your link)*
