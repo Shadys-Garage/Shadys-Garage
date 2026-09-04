@@ -32,6 +32,7 @@ I am a Mechatronics Engineering Master's student at Politecnico di Torino, bridg
 **CAD & Manufacturing** ![SolidWorks](https://img.shields.io/badge/SolidWorks-B32017?style=for-the-badge&logo=solidworks&logoColor=white)
 ![CAD](https://img.shields.io/badge/CAD-4D4D4D?style=for-the-badge)
 ![QForm Simulation](https://img.shields.io/badge/QForm_Simulation-00529B?style=for-the-badge)
+
 ---
 
 ### 📂 Featured Engineering Projects
