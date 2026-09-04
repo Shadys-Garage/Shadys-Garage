@@ -5,7 +5,7 @@
 I am a Mechatronics Engineering Master's student at Politecnico di Torino, bridging practical logistics and warehouse experience with advanced robotics software engineering. My work focuses on integrating mobile platforms (AGVs) with industrial robotic arms to automate complex industrial tasks like 3D scanning and quality control.
 
 ### 🚀 What I'm doing right now
-* **Thesis Project:** Developing an integrated mobile manipulator system (AMR/AGV + Robotic arm) for 3D scanning activities and quality checks.
+* **Thesis Project:** Developing an integrated mobile manipulator system (AMR/AGV + Robotic arm) for 3D scanning activities and quality checks,Developing a Automated Drink Sorting & Selection System based on PLC desiged using ladder logic,SFC and ST.
 * **Engineering Focus:** PLC programming,Static stability analysis, system dynamics, Reinforcement Learning and ROS 2 simulation workflows.
 * **Currently Exploring:** Optimizing Nav2 navigation and MoveIt 2 motion planning for complex industrial workspaces.
 
@@ -31,42 +31,38 @@ I am a Mechatronics Engineering Master's student at Politecnico di Torino, bridg
 ---
 
 ### 📂 Featured Engineering Projects
-
-#### 1. Mobile Manipulator Stability & Kinematics (AGV + Robotic Arm)
-*An industrial integration project evaluating the physical feasibility of mounting a roboyic manipulator on an AGV .*
-* Developed 2D Python simulations and mathematical models to calculate the system's center of mass.
-* Performed static stability analysis to map support polygons, tipping points, and safety factors during arm extension and heavy payloads.
-* 🔗 [Link to Repository / Case Study](#) *(Replace with your link)*
-* *(Optional: Embed a `![GIF description](link-to-gif.gif)` of your stability simulation here)*
-
-#### 2. Autonomous Navigation & Workcell Simulation
+#### Robotics Projects
+##### 1. Autonomous Navigation & Workcell Simulation
 *Developed URDF/Xacro descriptions and integrated them into realistic simulation environments.*
 * Modeled 3D workplace environments and generated mesh assets using Blender for precise Gazebo integration.
 * Configured multi-package ROS 2 workspaces to handle Nav2 stack initialization and RViz2 visualization for autonomous routing.
-* 🔗 [Link to Repository / Case Study](#) *(Replace with your link)*
+* Developed 2D Python simulations and mathematical models to calculate the system's center of mass.
+* Performed static stability analysis to map support polygons, tipping points, and safety factors during arm extension and heavy payloads.
+* 🔗 [Link to Repository (Ongoing project) / Case Study](#) *(Replace with your link)*
 
 
-#### 3. Reinforcement Learning for Domain Randomization
+##### 2. Reinforcement Learning for Domain Randomization
 *Implemented and tuned reinforcement learning algorithms for dynamic environments.*
 * Applied Proximal Policy Optimization (PPO) algorithms to solve cartpole domain randomization challenges.
 * Evaluated training performance and conducted hyperparameter tuning to ensure robust policy generation.
 * 🔗 [Link to Repository / Case Study](#)
 
-#### 4. Automated Weighing & Robotic Arm Conveyor System
+#### Controller Projects
+##### 1. Automated Weighing & Robotic Arm Conveyor System
 *Industrial automation architecture modeled and simulated entirely in Automation Studio.*
 * Designed the control logic for a conveyor-fed weighing station and integrated robotic arm handling without relying on physical PLC hardware.
 * Implemented Sequential Function Charts (SFC) and Ladder Logic to synchronize conveyor timing with pick-and-place routines.
 * Developed a custom Human-Machine Interface (HMI) for real-time monitoring and system control.
 * 🔗 [View Notion Case Study](https://app.notion.com/p/Automated-Weighing-Robotic-Arm-Conveyor-System-3d0284bb286f8045b79fc138d2e02e02?source=copy_link) | 💻 [View Source Code](https://github.com/Shadys-Garage/Automated_Weighing_And_Robotic_Arm_Conveyor_System_PLC.git)
 
-#### 5. Automated Drink Sorting & Selection System
+##### 2. Automated Drink Sorting & Selection System
 *Fluid-logic and PLC programming simulated across CODESYS and FluidSIM.*
 * Developed Structured Text and Ladder Logic to manage state transitions and electro-pneumatic sorting mechanisms.
 * Utilized shift register logic to track bottle positions, ensuring accurate drink selection and routing down the line.
 * Designed an interactive HMI allowing users to input desired drink selections and monitor the active pipeline status.
-* 🔗 [Link to Repository / Case Study](#)
+* 🔗 [Link to Repository(Ongoing project) / Case Study](#)
 
-#### 6. Model-Based Software Design: ISO-26262 One-Pedal Controller
+##### 3. Model-Based Software Design: ISO-26262 One-Pedal Controller
 *Designed and simulated a safety-critical one-pedal controller and vehicle dynamics model.*
 * Conducted Hazard Analysis and Risk Assessment (HARA) to evaluate unintended acceleration and braking scenarios, assigning appropriate ASIL levels to ensure ISO26262 compliance.
 * Developed a Finite State Machine (FSM) in Simulink to govern transmission states and compute dynamic torque requests against a custom longitudinal vehicle physics plant.
@@ -76,5 +72,5 @@ I am a Mechatronics Engineering Master's student at Politecnico di Torino, bridg
 ---
 
 ### 📫 Let's Connect
-* [LinkedIn](https://linkedin.com/in/yourprofile)
-* [Email](mailto:your.email@example.com)
+* [LinkedIn](https://www.linkedin.com/in/shady-abdelmaguid/)
+* [Email](shadyibrahim147@gmail.com)
