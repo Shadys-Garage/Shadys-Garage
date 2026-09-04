@@ -17,6 +17,7 @@ I am a Mechatronics Engineering Master's student at Politecnico di Torino, bridg
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 **Robotics & Simulation** ![ROS 2](https://img.shields.io/badge/ROS_2_(Humble/Jazzy)-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo_Simulation-FF8200?style=for-the-badge&logo=gazebo&logoColor=white)
@@ -28,6 +29,9 @@ I am a Mechatronics Engineering Master's student at Politecnico di Torino, bridg
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
+**CAD & Manufacturing** ![SolidWorks](https://img.shields.io/badge/SolidWorks-B32017?style=for-the-badge&logo=solidworks&logoColor=white)
+![CAD](https://img.shields.io/badge/CAD-4D4D4D?style=for-the-badge)
+![QForm Simulation](https://img.shields.io/badge/QForm_Simulation-00529B?style=for-the-badge)
 ---
 
 ### 📂 Featured Engineering Projects
