@@ -38,7 +38,7 @@ I am a Mechatronics Engineering Master's student at Politecnico di Torino, bridg
 * Configured multi-package ROS 2 workspaces to handle Nav2 stack initialization and RViz2 visualization for autonomous routing.
 * Developed 2D Python simulations and mathematical models to calculate the system's center of mass.
 * Performed static stability analysis to map support polygons, tipping points, and safety factors during arm extension and heavy payloads.
-* 🔗 [Link to Repository (Ongoing project) / Case Study](#) *(Replace with your link)*
+* 🔗 (Ongoing project) 
 
 
 ##### 2. Reinforcement Learning for Domain Randomization
@@ -60,7 +60,7 @@ I am a Mechatronics Engineering Master's student at Politecnico di Torino, bridg
 * Developed Structured Text and Ladder Logic to manage state transitions and electro-pneumatic sorting mechanisms.
 * Utilized shift register logic to track bottle positions, ensuring accurate drink selection and routing down the line.
 * Designed an interactive HMI allowing users to input desired drink selections and monitor the active pipeline status.
-* 🔗 [Link to Repository(Ongoing project) / Case Study](#)
+* 🔗 (Ongoing project)
 
 ##### 3. Model-Based Software Design: ISO-26262 One-Pedal Controller
 *Designed and simulated a safety-critical one-pedal controller and vehicle dynamics model.*
