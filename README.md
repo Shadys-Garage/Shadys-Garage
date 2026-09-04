@@ -78,4 +78,4 @@ I am a Mechatronics Engineering Master's student at Politecnico di Torino, bridg
 
 ### 📫 Let's Connect
 * [LinkedIn](https://www.linkedin.com/in/shady-abdelmaguid/)
-* [Email](shadyibrahim147@gmail.com)
+* [shadyibrahim147@gmail.com](shadyibrahim147@gmail.com)
